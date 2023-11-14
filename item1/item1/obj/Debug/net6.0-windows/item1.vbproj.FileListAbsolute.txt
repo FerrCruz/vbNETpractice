@@ -1,0 +1,16 @@
+D:\Visual Basic (proyectos)\item1\item1\bin\Debug\net6.0-windows\item1.exe
+D:\Visual Basic (proyectos)\item1\item1\bin\Debug\net6.0-windows\item1.deps.json
+D:\Visual Basic (proyectos)\item1\item1\bin\Debug\net6.0-windows\item1.runtimeconfig.json
+D:\Visual Basic (proyectos)\item1\item1\bin\Debug\net6.0-windows\item1.dll
+D:\Visual Basic (proyectos)\item1\item1\bin\Debug\net6.0-windows\item1.pdb
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.FormularioClientes.resources
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.vbproj.GenerateResource.cache
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.AssemblyInfoInputs.cache
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.AssemblyInfo.vb
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.vbproj.CoreCompileInputs.cache
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.dll
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\refint\item1.dll
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.pdb
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\item1.genruntimeconfig.cache
+D:\Visual Basic (proyectos)\item1\item1\obj\Debug\net6.0-windows\ref\item1.dll
